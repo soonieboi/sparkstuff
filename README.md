@@ -1,4 +1,11 @@
-#BEAD 2025
+# BEAD 2025
+
+This module is part of the ISS MTech Graduate Certificate series. The module is common for both Graduate Certificate in Big  Data Analytics as well as Graduate Certificate in Engineering Big Data series offered by NUS-ISS.
+
+Participants will learn various aspects of data engineering while building data intensive applications. Participants will learn to apply key practices, identify multiple data sources appraised against their business value, design the right storage, and implement proper access model(s).  Finally, participants will build a scalable data pipeline solution composed of pluggable hadoop component architecture, based on the combination of requirements in a vendor/technology agnostic manner.  Participants will work with Spark framework and special processing libraries.
+
+Key Takeaways
+-------------
 Upon effective completion of the course, participants will be able to:
 Understand the growth of big data and need for a scalable processing framework. Understand the fundamental characteristics, storage, analysis techniques and the relevant distributions
  Understand the distributed storage essentials, storage needs, and relevant architectural mechanism in processing large amounts of structured, semi-structured and unstructured data. 
