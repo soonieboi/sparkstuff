@@ -1,0 +1,3 @@
+Some random text
+The idea is to check number of lines
+present in this file currently
